@@ -1,0 +1,2 @@
+git+git://github.com/gunthercox/chatterbot-corpus@master#egg=chatterbot_corpus
+
